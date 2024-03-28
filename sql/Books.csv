@@ -1,0 +1,101 @@
+book_id,title,author_id,genre_id,publication_year,ISBN
+1,The House on 56th Street,2,4,696,459687132-9
+2,"Last Warrior, The (Last Patrol, The)",2,5,389,710524736-3
+3,Alila,2,4,415,203471956-5
+4,Captain Phillips,4,4,736,003476055-5
+5,Lucky: No Time For Love,3,4,323,851400887-0
+6,Mr. Moto in Danger Island,1,2,261,673049676-2
+7,Soldier,2,4,1344,082432273-8
+8,Caltiki the Undying Monster,1,5,391,663194241-1
+9,Stray Dogs,2,1,1268,177545291-3
+10,"Odd Life of Timothy Green, The",4,4,168,254672278-6
+11,"Other Sister, The",5,5,1496,420278121-X
+12,"Edge of Love, The",3,5,1159,824785766-9
+13,"Emperor Waltz, The",5,1,1064,015076186-4
+14,Smokers Only (Vagón Fumador),3,5,1858,335029072-8
+15,Elysium,4,2,1308,960176336-8
+16,Breakin',4,4,1040,519482099-2
+17,"Fragile Trust: Plagiarism, Power, and Jayson Blair at the New York Times, A",3,2,324,169740606-8
+18,"Doctor and the Devils, The",4,1,852,339774617-5
+19,Louis C.K.: Oh My God,2,4,739,821192417-X
+20,"Bucket Of Blood, A",5,5,1496,350545615-2
+21,"Villain, The (Le Vilain)",2,3,105,879313430-4
+22,By the People: The Election of Barack Obama,2,4,710,713150323-1
+23,Black Angel,2,4,626,177787832-2
+24,Arc,1,1,910,576493664-0
+25,"Alamo, The",2,3,1721,039394960-5
+26,Change of Habit,2,5,1404,943782704-4
+27,Oxygen,4,1,1410,055918542-1
+28,Blindness,4,1,407,502839637-X
+29,Poor Boy's Game,1,2,1272,857917369-8
+30,Side Effects,3,5,1694,097702609-4
+31,Elegy,5,2,471,700271007-9
+32,Fort Bliss,2,2,1979,005998646-8
+33,"Yards, The",1,3,1464,375284350-0
+34,Listen to Britain,3,3,825,523006177-4
+35,Far Out Man,1,3,793,914546453-7
+36,How to Seduce Difficult Women,3,2,290,940649847-2
+37,Shadowlands,5,2,1547,709573236-1
+38,Good Copy Bad Copy,5,3,1668,538707275-0
+39,Mad Dog and Glory,4,2,1151,660280933-4
+40,Silence (Chinmoku),2,4,507,659541972-6
+41,Forever Hardcore: The Documentary,4,1,1971,506459518-2
+42,Two Cents Worth of Hope (Due soldi di speranza),2,3,1345,501891833-0
+43,Night of the Demons,3,4,1884,978869566-3
+44,High School Musical,3,1,984,704221355-6
+45,Light It Up,3,4,1871,676803710-2
+46,Edvard Munch,5,2,767,115284452-0
+47,"Letter to Momo, A (Momo e no tegami)",1,3,893,290645146-0
+48,Breath (Soom),5,4,1026,749467493-4
+49,Science and Islam,5,5,101,533324738-2
+50,"Cry, the Beloved Country",4,4,1822,455372877-X
+51,Stir of Echoes,1,1,419,239001420-8
+52,Taken 3,1,2,1094,430499926-5
+53,Sweet Karma,1,1,311,489811683-3
+54,"Return of Django (Son of Django) (Figlio di Django, Il)",1,5,2003,735126380-9
+55,"Django, Kill... If You Live, Shoot! (Se sei vivo spara)",1,4,1379,785480739-6
+56,"Touch of Spice, A (Politiki kouzina)",3,5,979,163009924-4
+57,"Harvest: 3,000 Years (Mirt Sost Shi Amit)",5,4,1143,304895055-9
+58,Dorian Gray,5,5,1589,388468933-9
+59,Executive Protection (Livvakterna),4,4,72,768792884-9
+60,After Image (Seeing in the Dark),4,5,556,279828272-1
+61,Gigantic (A Tale of Two Johns),5,4,575,049162169-8
+62,Hansel & Gretel Get Baked,4,1,342,936131375-4
+63,City of Angels,2,2,1751,456892536-3
+64,None But the Lonely Heart,4,5,548,003311568-0
+65,Skhizein,5,5,1944,321205759-9
+66,"Killers, The",2,2,1724,082398092-8
+67,Promised Land,4,5,728,826031518-1
+68,"Edison, the Man",4,3,1725,335445832-1
+69,Seven Angry Men,5,5,1601,872715755-5
+70,Meatballs Part II,3,1,2010,512589434-6
+71,Point Break,4,4,1968,823058006-5
+72,Persuasion,1,2,1866,822099424-X
+73,Just One of the Guys,5,1,1348,502393969-3
+74,"Wrong Guy, The",1,4,298,322932787-X
+75,Coco Before Chanel (Coco avant Chanel),1,1,329,569632441-X
+76,Indiana Jones and the Kingdom of the Crystal Skull,3,3,1587,120485903-5
+77,Missile to the Moon,4,2,396,499814060-4
+78,Billy Budd,2,5,1663,113534139-7
+79,Scandal (Shubun),5,4,1288,346730603-9
+80,Fantomas vs. Scotland Yard,3,2,1349,363603358-1
+81,"Incredibles, The",4,1,809,506463249-5
+82,The Wicker Tree,1,5,1400,889415585-4
+83,Thief,3,3,1551,017692474-4
+84,God Is Brazilian (Deus É Brasileiro),5,3,342,145416693-2
+85,Snow Flower and the Secret Fan,2,1,4,680498966-X
+86,"Jeffrey Dahmer Files, The",4,2,1582,499982115-X
+87,"24 Hour Woman, The",2,3,658,243123121-6
+88,Confessions of a Window Cleaner,4,3,632,509233244-1
+89,"King of Ping Pong, The (Ping-pongkingen)",4,5,1110,517610064-9
+90,High School Hellcats,1,5,14,889686685-5
+91,Pretty Woman,3,5,1411,999503407-7
+92,Fuse (Gori vatra),3,2,1943,698201407-X
+93,Deadline - U.S.A.,1,1,347,773101713-3
+94,"Apparition, The",5,2,175,224582631-0
+95,Rape Me (Baise-moi),3,5,516,469636307-4
+96,The Fool,3,5,1386,288542143-6
+97,Things You Can Tell Just by Looking at Her,4,5,1620,816339410-2
+98,Singh Is Kinng,5,5,246,681720933-1
+99,Resurrection,4,5,1223,834941764-1
+100,"Ah, Wilderness!",4,1,870,230839160-X
